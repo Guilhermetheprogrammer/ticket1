@@ -491,7 +491,7 @@ const Dashboard = () => {
                     { !proInstructionsOpen &&
                     <Grid className={classes.ticketzProBox} item xs={12} md={6} sm={12}>
                       <Typography className={classes.ticketzProTitle} component="h3" variant="h5" gutterBottom>
-                        Ticketz PRO
+                        G.DEV PRO
                       </Typography>
                       <Typography component="h3" variant="h7" gutterBottom>
                       <ul className={classes.ticketzProFeatures}>
@@ -533,14 +533,14 @@ const Dashboard = () => {
                         curl -sSL update.ticke.tz | sudo bash -s pro
                       </Typography>
                       <Typography paragraph>
-                        Em instantes o Ticketz PRO estará instalado com todos os teus dados,
+                        Em instantes o G.DEV PRO estará instalado com todos os teus dados,
                         agora só precisa ir até o menu de usuário, clicar em "Assinatura do
-                        Ticketz PRO" e fazer a sua assinatura.
+                        G.DEV PRO" e fazer a sua assinatura.
                       </Typography>
                       <Typography paragraph>
                         Se a tua instalação for diferente ou acredita que precisa
-                        de auxílio para instalar o Ticketz
-                        Pro, <a href="https://wa.me/554935670707"> entre
+                        de auxílio para instalar o G.Dev PRO
+                        Pro, <a href="https://wa.me/5561991057451"> entre
                         em contato</a> que nós ajudamos!
                       </Typography>
                     </Grid>

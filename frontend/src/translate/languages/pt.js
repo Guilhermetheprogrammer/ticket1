@@ -655,11 +655,8 @@ const messages = {
         aboutdetail: "O ticketz é derivado indireto do projeto Whaticket com melhorias compartilhadas pelos desenvolvedores do sistema EquipeChat através do canal VemFazer no youtube, posteriormente melhoradas por Claudemir Todo Bom",
         aboutauthorsite: "Site do autor",
         aboutwhaticketsite: "Site do Whaticket Community no Github",
-        aboutvemfazersite: "Site do canal Vem Fazer no Github",
         licenseheading: "Licença em Código Aberto",
         licensedetail: "O ticketz está licenciado sob a GNU Affero General Public License versão 3, isso significa que qualquer usuário que tiver acesso a esta aplicação tem o direito de obter acesso ao código fonte. Mais informações nos links abaixo:",
-        licensefulltext: "Texto completo da licença",
-        licensesourcecode: "Código fonte do ticketz"
       },
       schedules: {
         title: "Agendamentos",

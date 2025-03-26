@@ -655,8 +655,6 @@ const messages = {
         aboutvemfazersite: "Sitio del canal Vem Fazer en Github",
         licenseheading: "Licencia de Código Abierto",
         licensedetail: "El ticketz está licenciado bajo la Licencia Pública General Affero de GNU versión 3, lo que significa que cualquier usuario que tenga acceso a esta aplicación tiene derecho a obtener acceso al código fuente. Más información en los siguientes enlaces:",
-        licensefulltext: "Texto completo de la licencia",
-        licensesourcecode: "Código fuente de ticketz"
       },
       schedules: {
         title: "Agendamentos",
