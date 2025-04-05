@@ -171,4 +171,4 @@ If this project has helped you with a complex task, consider making a donation t
 
 ![image](https://github.com/ticketz-oss/ticketz/assets/6070736/8e85b263-73ca-4fb4-9bdc-03fff356b6ff)
 
-PIX Key: 0699c69d-0951-4686-a5b7-c6cd21aa7e15
+PIX Key: 0699c69d-0951-4686-a5b7-c6cd21aa7e15# ticket1
